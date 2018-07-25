@@ -1,0 +1,2 @@
+# gitproperties
+git properties file
